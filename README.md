@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KamilStrz
+- 👋 Hi, I’m @Kamil Strzyzewski
 - 👀 The knowledge possessed is HTML, CSS, Bootstrap, RWD, Sass, JavaScript,
 - 🌱 I’m currently learning jQuerry,
 - 💞️ I’m looking to collaborate on with cdeveloping companies as Junior Front-End Developer.
